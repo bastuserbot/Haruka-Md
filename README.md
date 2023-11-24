@@ -40,7 +40,7 @@
 
 # Instalasi
 
-## Windows Subsytem Linux
+## Windows Subsystem Linux
 
 ```
 > sudo apt update && sudo apt upgrade
