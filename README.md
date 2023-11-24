@@ -47,7 +47,7 @@
 > sudo apt install git -y
 > sudo apt install ffmpeg -y
 > sudo apt install imagemagick -y
-> sudo apt install nodejs -y
+> sudo apt install npm
 > git clone https://github.com/SangonomiyaRen/Haruka-Md
 > cd Haruka-Md
 > npm install
