@@ -1,33 +1,34 @@
 {
-    "ownerNumber": ["6282193115723@s.whatsapp.net","62887435047326@s.whatsapp.net"],
-    "ownerName": "ᴹᴿ᭄ ZeeoneOfcོ ×፝֟͜×",
-    "instagram" : "https://instagram.com/zeeoneofc",
+    "ownerNumber": ["62821xxxxxxxx@s.whatsapp.net","62887xxxxxxxx@s.whatsapp.net"], // Ganti Nomor Owner disini
+    "ownerName": "Hu Tao", // Ganti Nama Owner disini
+    "instagram" : "https://instagram.com/rendi_saptianputra95", // Ganti ke link instagram mu, abaikan jika tidak punya
     "gcwa" : "https://instabio.cc/Alphabot",
-    "botName": "Haruka-Mdོ ",
+    "botName": "Haruka-Mdོ ", //Ganti Nama Bot mu disini
     "footer": "2023 © api.zeeoneofc.my.id",
-    "sessionName": "session",
-    "fotoDonasi": "./qris.jpg",
-    "pathimg": "./Haruka.jpg",
-    "BotKey": "your key",
-    "OpenAIKey": "your openai key",
-    "audio_di_bagian_menu": "./menu.mp3",
-    "auto_ai_japri": false,
+    "sessionName": "session", // Folder sesi bot, jangan diganggu
+    "fotoDonasi": "./qris.jpg", // Foto donasi, aku ga mau ganti karna menghargai pembuat kode ini dri nol
+    "pathimg": "./HuTao.jpg", // Gambar yg akan ditampilkan ketika pengguna mengetik menu
+    "BotKey": "your key", // Isi Apikey kamu disini. jika ga punya silahkan buka link ini untuk mendapatkan api key kamu https://api.zeeoneofc.my.id
+    "OpenAIKey": "your openai key", // Isi Apikey Open Ai kamu agar dapat menggunakan fitur chat GPT
+    "audio_di_bagian_menu": "./oyaoyat.mp3", // Audio menu Ganti sesuai seleramu. Ragu? biarkan saja demi menghindari kerusakan
+    // Ganti Settingan dibawah ini sesuai kebutuhanmu
+    "auto_ai_japri": false, // Ganti ke settingan True Jika apikey Open Ai kamu berfungsi, ini akan membuat bot wa kamu membalas pesan japri secara otomatis oleh AI
     "auto_ai_grup": false,
-    "auto_welcomeMsg": true,
-    "auto_leaveMsg": true, 
-    "antiViewOnce": true,
+    "auto_welcomeMsg": false,
+    "auto_leaveMsg": false, 
+    "antiViewOnce": false,
     "grupOnly": false,
     "japriOnly": false, 
     "antiDelete": false,
     "autobio": false,
-    "anticall": true,
+    "anticall": false,
     "autorespond": false,
-    "autoblok212": true,
+    "autoblok212": false,
     "autoread": true,
     "gamewaktu": 90,
     "limitCount": 25,
     "gcount": {
         "prem": 1000,
-        "user": 15
+        "user": 30
     }
 }
