@@ -5,7 +5,7 @@
 -----------------------------------------------------
 
 <p align="center">
-<img src="https://github.com/zeeoneofficial/Haruka-Md/blob/v1/media/Haruka.jpg" alt="ALPHA BOT" width="100"/>
+<img src="https://github.com/Nasa367/Haruka-Md/blob/v11.1/HuTao.jpg" alt="ALPHA BOT" width="100"/>
 
 
 </p>
@@ -39,6 +39,34 @@
 ---
 
 # Instalasi
+
+## Windows Subsytem Linux
+
+```
+> sudo apt update && sudo apt upgrade
+> sudo apt install git -y
+> sudo apt install ffmpeg -y
+> sudo apt install imagemagick -y
+> sudo apt install nodejs -y
+> gitclone https://github.com/Nasa367/Haruka-Md
+> cd Haruka-Md
+> npm install
+```
+
+Setelah npm nya telah terinstall tinggal jalankan
+
+```
+> npm start
+```
+Jika terjadi kesalahan? silahkan hapus nodejs dan langsung jalankan npm
+
+```
+> sudo apt remove nodejs
+> npm start
+```
+
+--------
+
 ## HEROKU BUILDPACK
 
 ```
