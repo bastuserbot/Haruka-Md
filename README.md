@@ -53,18 +53,6 @@
 > npm install
 ```
 
-Setelah npm nya telah terinstall tinggal jalankan
-
-```
-> npm start
-```
-Jika terjadi kesalahan? silahkan hapus nodejs dan langsung jalankan npm
-
-```
-> sudo apt remove nodejs
-> npm start
-```
-
 --------
 
 ## HEROKU BUILDPACK
