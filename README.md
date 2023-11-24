@@ -48,7 +48,7 @@
 > sudo apt install ffmpeg -y
 > sudo apt install imagemagick -y
 > sudo apt install nodejs -y
-> gitclone https://github.com/Nasa367/Haruka-Md
+> git clone https://github.com/Nasa367/Haruka-Md
 > cd Haruka-Md
 > npm install
 ```
