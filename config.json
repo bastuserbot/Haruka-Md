@@ -8,7 +8,7 @@
     "sessionName": "session", 
     "fotoDonasi": "./qris.jpg", 
     "pathimg": "./HuTao.jpg", 
-    "BotKey": "your key", // 
+    "BotKey": "your key", 
     "OpenAIKey": "your openai key", 
     "audio_di_bagian_menu": "./oyaoyat.mp3", 
     "auto_ai_japri": false, 
