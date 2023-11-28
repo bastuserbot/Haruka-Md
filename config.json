@@ -1,18 +1,17 @@
 {
-    "ownerNumber": ["62821xxxxxxxx@s.whatsapp.net","62887xxxxxxxx@s.whatsapp.net"], // Ganti Nomor Owner disini
-    "ownerName": "Hu Tao", // Ganti Nama Owner disini
-    "instagram" : "https://instagram.com/rendi_saptianputra95", // Ganti ke link instagram mu, abaikan jika tidak punya
+    "ownerNumber": ["62821xxxxxxxx@s.whatsapp.net","62887xxxxxxxx@s.whatsapp.net"], 
+    "ownerName": "Hu Tao", 
+    "instagram" : "https://instagram.com/rendi_saptianputra95", 
     "gcwa" : "https://instabio.cc/Alphabot",
-    "botName": "Haruka-Mdོ ", //Ganti Nama Bot mu disini
+    "botName": "Haruka-Mdོ ", 
     "footer": "2023 © api.zeeoneofc.my.id",
-    "sessionName": "session", // Folder sesi bot, jangan diganggu
-    "fotoDonasi": "./qris.jpg", // Foto donasi, aku ga mau ganti karna menghargai pembuat kode ini dri nol
-    "pathimg": "./HuTao.jpg", // Gambar yg akan ditampilkan ketika pengguna mengetik menu
-    "BotKey": "your key", // Isi Apikey kamu disini. jika ga punya silahkan buka link ini untuk mendapatkan api key kamu https://api.zeeoneofc.my.id
-    "OpenAIKey": "your openai key", // Isi Apikey Open Ai kamu agar dapat menggunakan fitur chat GPT
-    "audio_di_bagian_menu": "./oyaoyat.mp3", // Audio menu Ganti sesuai seleramu. Ragu? biarkan saja demi menghindari kerusakan
-    // Ganti Settingan dibawah ini sesuai kebutuhanmu
-    "auto_ai_japri": false, // Ganti ke settingan True Jika apikey Open Ai kamu berfungsi, ini akan membuat bot wa kamu membalas pesan japri secara otomatis oleh AI
+    "sessionName": "session", 
+    "fotoDonasi": "./qris.jpg", 
+    "pathimg": "./HuTao.jpg", 
+    "BotKey": "your key", // 
+    "OpenAIKey": "your openai key", 
+    "audio_di_bagian_menu": "./oyaoyat.mp3", 
+    "auto_ai_japri": false, 
     "auto_ai_grup": false,
     "auto_welcomeMsg": false,
     "auto_leaveMsg": false, 
